@@ -30,7 +30,7 @@ Each tier includes micro-actions, e.g. mindfulness breaks, Box Breathing, journa
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, HTML, CSS (Vite build tool)  
-- **Backend:** TypeScript, Node.js  
+- **Backend:** TypeScript, Node.js, Java
 - **APIs/Services:** Google Gemini API, Vercel (for hosting app)
 
 ---
